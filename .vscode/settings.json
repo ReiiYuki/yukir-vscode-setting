@@ -1,0 +1,13 @@
+{
+	"eslint.autoFixOnSave": true,
+	"powermode.enabled": true,
+  "powermode.enableShake": false,
+	"powermode.enableExplosions": true,
+	"files.associations": {
+		"*.json": "jsonc",
+		"*.*rc": "jsonc",
+		".npmrc": "text"
+	},
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false
+}
